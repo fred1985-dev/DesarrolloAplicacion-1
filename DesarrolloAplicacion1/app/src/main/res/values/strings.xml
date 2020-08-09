@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesarrolloAplicacion-1</string>
+    <string name="datosConfirmacion">Confirmar Datos</string>
+    <string name="nombreIngresado">nombreIngresado</string>
+    <string name="telefonoIngresado">telefonoIngresado</string>
+    <string name="emailIngresado">emailIngresado</string>
+    <string name="fechaIngresado">fechaIngresado</string>
+    <string name="descripcionIngresado">descripcionIngresado</string>
+</resources>
